@@ -10,10 +10,10 @@ android {
     defaultConfig {
         applicationId "io.github.abdurazaaqmohammed.MPManager"
         minSdk 23
-        targetSdk 37
+        targetSdk 35
         multiDexEnabled true
         versionCode 12
-        versionName "1.1.1"
+        versionName "1.1.1-GI"
     }
 
     buildTypes {
