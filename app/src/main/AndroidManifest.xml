@@ -66,7 +66,8 @@
            android:largeHeap="true"
            android:theme="@style/Theme.Material3.DayNight.NoActionBar"
            android:name="io.github.ratul.topactivity.App"
-           android:icon="@mipmap/ic_launcher"
+           android:icon="@drawable/gi_launcher"
+           android:roundIcon="@drawable/gi_launcher"
            android:label="MP Manager">
         <activity
             android:theme="@style/Theme.Material3.DayNight.NoActionBar"
