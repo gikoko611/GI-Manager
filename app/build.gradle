@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    compileSdk 37
+    compileSdk 35
     lint {
         baseline = file("lint.xml")
     }
