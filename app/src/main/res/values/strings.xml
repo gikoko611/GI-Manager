@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">MP Manager</string>
+    <string name="app_name" translatable="false">G.I Manager</string>
     <string name="success_saved">File saved successfully to %s</string>
     <string name="enable_logs" >Save logs</string>
     <string name="sign_apk_after_merge">Sign the APK after merging</string>
